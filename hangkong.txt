@@ -1,0 +1,27 @@
+Vultr注册链接：https://www.vultr.com/?ref=8753714
+
+VPS服务器系统选择 Debian9或以上
+
+---------------------------------------------------------
+
+V2Ray一键安装代码：
+
+bash <(curl -s -L https://git.io/v2ray.sh)
+
+---------------------------------------------------------
+
+温馨提示：
+请放行搭建完成后V2Ray配置信息的端口
+搭建完成之后，请复制下方代码，再按回车，记得将 35000 改为你自己的端口。
+例如要放行 35000 端口
+iptables -I INPUT -p tcp --dport 35000 -j ACCEPT
+
+---------------------------------------------------------
+
+Xshell 6 下载：https://kjfx.lanzoui.com/iTRmCp227md
+
+FinalShell下载：https://kjfx.lanzoui.com/iqm6Uosbzha
+
+
+科学软件下载：https://github.com/Kejifaxian/welcome/
+备用下载：https://bit.ly/38kRjHS
